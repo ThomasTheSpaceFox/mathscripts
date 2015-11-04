@@ -1,0 +1,701 @@
+(digits after decimal point)       SCALE=20
+(number of repititions to preform) REP=30000
+(mode for printout)                REPTABLE=2
+(starting value for dynaic number) NUMA=1886
+(static number)                    NUMB=12
+                                   ACT=+
+(Print interval for mode 2)        PLOCK=260
+-----------------------------------------------------
+
+
+calculation 260:
+4994+12
+result:
+5006
+
+
+calculation 520:
+8114+12
+result:
+8126
+
+
+calculation 780:
+11234+12
+result:
+11246
+
+
+calculation 1040:
+14354+12
+result:
+14366
+
+
+calculation 1300:
+17474+12
+result:
+17486
+
+
+calculation 1560:
+20594+12
+result:
+20606
+
+
+calculation 1820:
+23714+12
+result:
+23726
+
+
+calculation 2080:
+26834+12
+result:
+26846
+
+
+calculation 2340:
+29954+12
+result:
+29966
+
+
+calculation 2600:
+33074+12
+result:
+33086
+
+
+calculation 2860:
+36194+12
+result:
+36206
+
+
+calculation 3120:
+39314+12
+result:
+39326
+
+
+calculation 3380:
+42434+12
+result:
+42446
+
+
+calculation 3640:
+45554+12
+result:
+45566
+
+
+calculation 3900:
+48674+12
+result:
+48686
+
+
+calculation 4160:
+51794+12
+result:
+51806
+
+
+calculation 4420:
+54914+12
+result:
+54926
+
+
+calculation 4680:
+58034+12
+result:
+58046
+
+
+calculation 4940:
+61154+12
+result:
+61166
+
+
+calculation 5200:
+64274+12
+result:
+64286
+
+
+calculation 5460:
+67394+12
+result:
+67406
+
+
+calculation 5720:
+70514+12
+result:
+70526
+
+
+calculation 5980:
+73634+12
+result:
+73646
+
+
+calculation 6240:
+76754+12
+result:
+76766
+
+
+calculation 6500:
+79874+12
+result:
+79886
+
+
+calculation 6760:
+82994+12
+result:
+83006
+
+
+calculation 7020:
+86114+12
+result:
+86126
+
+
+calculation 7280:
+89234+12
+result:
+89246
+
+
+calculation 7540:
+92354+12
+result:
+92366
+
+
+calculation 7800:
+95474+12
+result:
+95486
+
+
+calculation 8060:
+98594+12
+result:
+98606
+
+
+calculation 8320:
+101714+12
+result:
+101726
+
+
+calculation 8580:
+104834+12
+result:
+104846
+
+
+calculation 8840:
+107954+12
+result:
+107966
+
+
+calculation 9100:
+111074+12
+result:
+111086
+
+
+calculation 9360:
+114194+12
+result:
+114206
+
+
+calculation 9620:
+117314+12
+result:
+117326
+
+
+calculation 9880:
+120434+12
+result:
+120446
+
+
+calculation 10140:
+123554+12
+result:
+123566
+
+
+calculation 10400:
+126674+12
+result:
+126686
+
+
+calculation 10660:
+129794+12
+result:
+129806
+
+
+calculation 10920:
+132914+12
+result:
+132926
+
+
+calculation 11180:
+136034+12
+result:
+136046
+
+
+calculation 11440:
+139154+12
+result:
+139166
+
+
+calculation 11700:
+142274+12
+result:
+142286
+
+
+calculation 11960:
+145394+12
+result:
+145406
+
+
+calculation 12220:
+148514+12
+result:
+148526
+
+
+calculation 12480:
+151634+12
+result:
+151646
+
+
+calculation 12740:
+154754+12
+result:
+154766
+
+
+calculation 13000:
+157874+12
+result:
+157886
+
+
+calculation 13260:
+160994+12
+result:
+161006
+
+
+calculation 13520:
+164114+12
+result:
+164126
+
+
+calculation 13780:
+167234+12
+result:
+167246
+
+
+calculation 14040:
+170354+12
+result:
+170366
+
+
+calculation 14300:
+173474+12
+result:
+173486
+
+
+calculation 14560:
+176594+12
+result:
+176606
+
+
+calculation 14820:
+179714+12
+result:
+179726
+
+
+calculation 15080:
+182834+12
+result:
+182846
+
+
+calculation 15340:
+185954+12
+result:
+185966
+
+
+calculation 15600:
+189074+12
+result:
+189086
+
+
+calculation 15860:
+192194+12
+result:
+192206
+
+
+calculation 16120:
+195314+12
+result:
+195326
+
+
+calculation 16380:
+198434+12
+result:
+198446
+
+
+calculation 16640:
+201554+12
+result:
+201566
+
+
+calculation 16900:
+204674+12
+result:
+204686
+
+
+calculation 17160:
+207794+12
+result:
+207806
+
+
+calculation 17420:
+210914+12
+result:
+210926
+
+
+calculation 17680:
+214034+12
+result:
+214046
+
+
+calculation 17940:
+217154+12
+result:
+217166
+
+
+calculation 18200:
+220274+12
+result:
+220286
+
+
+calculation 18460:
+223394+12
+result:
+223406
+
+
+calculation 18720:
+226514+12
+result:
+226526
+
+
+calculation 18980:
+229634+12
+result:
+229646
+
+
+calculation 19240:
+232754+12
+result:
+232766
+
+
+calculation 19500:
+235874+12
+result:
+235886
+
+
+calculation 19760:
+238994+12
+result:
+239006
+
+
+calculation 20020:
+242114+12
+result:
+242126
+
+
+calculation 20280:
+245234+12
+result:
+245246
+
+
+calculation 20540:
+248354+12
+result:
+248366
+
+
+calculation 20800:
+251474+12
+result:
+251486
+
+
+calculation 21060:
+254594+12
+result:
+254606
+
+
+calculation 21320:
+257714+12
+result:
+257726
+
+
+calculation 21580:
+260834+12
+result:
+260846
+
+
+calculation 21840:
+263954+12
+result:
+263966
+
+
+calculation 22100:
+267074+12
+result:
+267086
+
+
+calculation 22360:
+270194+12
+result:
+270206
+
+
+calculation 22620:
+273314+12
+result:
+273326
+
+
+calculation 22880:
+276434+12
+result:
+276446
+
+
+calculation 23140:
+279554+12
+result:
+279566
+
+
+calculation 23400:
+282674+12
+result:
+282686
+
+
+calculation 23660:
+285794+12
+result:
+285806
+
+
+calculation 23920:
+288914+12
+result:
+288926
+
+
+calculation 24180:
+292034+12
+result:
+292046
+
+
+calculation 24440:
+295154+12
+result:
+295166
+
+
+calculation 24700:
+298274+12
+result:
+298286
+
+
+calculation 24960:
+301394+12
+result:
+301406
+
+
+calculation 25220:
+304514+12
+result:
+304526
+
+
+calculation 25480:
+307634+12
+result:
+307646
+
+
+calculation 25740:
+310754+12
+result:
+310766
+
+
+calculation 26000:
+313874+12
+result:
+313886
+
+
+calculation 26260:
+316994+12
+result:
+317006
+
+
+calculation 26520:
+320114+12
+result:
+320126
+
+
+calculation 26780:
+323234+12
+result:
+323246
+
+
+calculation 27040:
+326354+12
+result:
+326366
+
+
+calculation 27300:
+329474+12
+result:
+329486
+
+
+calculation 27560:
+332594+12
+result:
+332606
+
+
+calculation 27820:
+335714+12
+result:
+335726
+
+
+calculation 28080:
+338834+12
+result:
+338846
+
+
+calculation 28340:
+341954+12
+result:
+341966
+
+
+calculation 28600:
+345074+12
+result:
+345086
+
+
+calculation 28860:
+348194+12
+result:
+348206
+
+
+calculation 29120:
+351314+12
+result:
+351326
+
+
+calculation 29380:
+354434+12
+result:
+354446
+
+
+calculation 29640:
+357554+12
+result:
+357566
+
+
+calculation 29900:
+360674+12
+result:
+360686
+
+final result after 30000 calculations
+361886

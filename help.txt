@@ -1,0 +1,46 @@
+mathscripts.
+v1.0.0
+
+this is a set of math scripts i made out of boredom. they seemed useful to me so
+i figured i'd relese them to the world.
+
+(c) 2015 Thomas Leathers
+
+mathscripts is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+mathscripts is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with mathscripts.  If not, see <http://www.gnu.org/licenses/>.
+
+
+cross-check:
+
+cross-check is designed to generate a list of addition, subtraction, multiplication, 
+and devision, equations who's solution is a user designated number.
+
+to set this number set EQUATEQ to your chosen number and un-comment the table size 
+you wish to use, make sure that only one of the tables is un-commented.
+
+vartable:
+
+vartable is designed to solve simnd ple variable equations.
+such as x+2=4 6-x=2.
+
+it can handle addition, subtraction, division, and multiplication.
+
+vartable-basenum.sh can even calculate in base number other than 10.
+
+this is done by setting "base" as a number from 2-10, including 2 and 10.
+
+repititionlimit:
+
+this is a very complicated script used for generating single column, repitition calculations tables.
+
+see the commented help in the script for more information.

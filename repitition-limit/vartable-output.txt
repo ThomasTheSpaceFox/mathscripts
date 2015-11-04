@@ -1,0 +1,6 @@
+secondary number:  2.3
+action sent to vartable:  -
+is variable first:    0
+is number from repitition calculation solution: 1
+base number of these results: 10
+-----------------------------------------------------
