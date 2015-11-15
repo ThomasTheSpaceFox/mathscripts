@@ -30,7 +30,7 @@ you wish to use, make sure that only one of the tables is un-commented.
 
 vartable:
 
-vartable is designed to solve simnd ple variable equations.
+vartable is designed to solve simple variable equations.
 such as x+2=4 6-x=2.
 
 it can handle addition, subtraction, division, and multiplication.
